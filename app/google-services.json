@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1065269919728",
+    "firebase_url": "https://android-samples-3ecbd.firebaseio.com",
+    "project_id": "android-samples-3ecbd",
+    "storage_bucket": "android-samples-3ecbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065269919728:android:159556b7dfdadb03",
+        "android_client_info": {
+          "package_name": "com.acerolla.samples"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065269919728-2f0qmncoi30m54h97pf3bnjopg1601iv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSJmfBK_aMjc1hqp3B8_vX3yyp9icb_0s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
