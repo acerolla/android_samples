@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Coordinator</string>
+
+    <string name="main_menu_crypto">Crypto</string>
+    <string name="main_menu_ico">ICO</string>
+    <string name="main_menu_portfolio">Portfolio</string>
+    <string name="main_menu_alert">Alert</string>
+    <string name="main_menu_settings">Settings</string>
+</resources>
